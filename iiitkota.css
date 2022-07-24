@@ -180,6 +180,10 @@ iframe
     {
         column-count: 2;
     }
+    #vision
+    {
+        column-count:1;
+    }
     
 }
 @media only screen and (max-width:600px)
