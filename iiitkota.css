@@ -203,8 +203,9 @@ iframe
     }
     section td,th
     {
-        padding: 0px;
-        padding-bottom: 10px;
+        padding: 5px;
+        padding-bottom: 20px;
         color: wheat;
+        align:center;
     }
 }
